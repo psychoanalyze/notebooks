@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "psychoanalyze-notebooks"
+version = "0.1.0"
+description = "Example notebooks for the PsychoAnalyze project"
+authors = ["Ty Schlichenmeyer <t.schlic@wustl.edu>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+packages = [{include = "psychoanalyze_notebooks"}]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+psychoanalyze = "^0.8.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

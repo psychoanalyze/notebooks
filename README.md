@@ -6,7 +6,7 @@ Notebooks are a great way to quickly start coding with the `psychoanalyze` packa
 
 Check out our tutorial notebook to walk through a basic analysis workflow for a hypothetical [yes/no experiment](https://stats.stackexchange.com/questions/91326/simple-yes-no-question-uncertain-how-to-analyze-the-results).
 
-[![Binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychoanalyze/notebooks/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fpsychoanalyze%252Fnotebooks%26urlpath%3Dlab%252Ftree%252Fnotebooks%252Ftutorial.ipynb%26branch%3Dmain))
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychoanalyze/notebooks/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fpsychoanalyze%252Fnotebooks%26urlpath%3Dlab%252Ftree%252Fnotebooks%252Ftutorial.ipynb%26branch%3Dmain)
 
 ## JupyterHub w/GitHub login
 

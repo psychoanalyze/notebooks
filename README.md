@@ -1,6 +1,6 @@
 # Notebooks
 
-Notebooks are a great way to quickly start coding with the `psychoanalyze` package without needing to set up a development environment or install prerequisite software.
+Notebooks are a great way to quickly start scripting with the `psychoanalyze` package without needing to set up a development environment or install prerequisite software.
 
 ## Tutorial notebook on Binder
 
